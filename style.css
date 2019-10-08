@@ -1,0 +1,26 @@
+html {
+    font-family: serif;
+    font-size: 20px;
+    line-height: 3;
+    background-color: wheat;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+footer {
+    text-align: center;
+    font-style: italic;
+    
+}
+article {
+    background-color: wheat;
+    font-family: fantasy;
+}
+section {
+    background-color: grey;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
