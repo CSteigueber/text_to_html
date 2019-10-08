@@ -1,13 +1,15 @@
 html {
     font-family: serif;
     font-size: 20px;
-    line-height: 3;
-    background-color: wheat;
+    line-height: 45;
+    background-color: slategrey;
+    vertical-align: middle;
 }
 h1 {
     font-size: 50px;
     text-align: center;
     text-transform: uppercase;
+    text-shadow: 15px, 15px;
 }
 footer {
     text-align: center;
@@ -15,11 +17,11 @@ footer {
     
 }
 article {
-    background-color: wheat;
+    background-color: ;
     font-family: fantasy;
 }
 section {
-    background-color: grey;
+    background-color: white;
     padding-bottom: 10px;
     margin-bottom: 10px;
     border-radius: 15px;
