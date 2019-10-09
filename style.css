@@ -1,7 +1,7 @@
 html {
     font-family: serif;
     font-size: 20px;
-    line-height: 45;
+    line-height: 200%;
     background-color: slategrey;
     vertical-align: middle;
 }
@@ -19,6 +19,7 @@ footer {
 article {
     background-color: ;
     font-family: fantasy;
+    line-height: 1.2;
 }
 section {
     background-color: white;
